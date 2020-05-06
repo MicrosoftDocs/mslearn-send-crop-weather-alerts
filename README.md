@@ -1,6 +1,6 @@
-# Code for Send Crop Weather Alert Learn module
+# Code for Send Crop Weather Alerts Learn module
 
-This is the code used in the Learn module "Send Crop Weather Alert"
+This is the code used in the Learn module "Send Crop Weather Alerts"
 
 ## Contributing
 
